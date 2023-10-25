@@ -11,7 +11,7 @@ const cors = require('cors'); // Import the cors package
 
 // Allow requests from a specific origin (http://localhost:4200)
 const corsOptions = {
-  origin: 'http://localhost:4200',
+  origin: 'https://6538cd05de38746436b584d2--euphonious-mermaid-48586c.netlify.app',
   methods: 'GET,POST', // Add other HTTP methods as needed
 };
 
